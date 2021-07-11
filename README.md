@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @aisucream
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Jangan lupa install : 
 
-<!---
-aisucream/aisucream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+pip install mysql
+pip install pyqt5
+pip install pyuic5
+pip install xlxrd
+
+info lebih lanjut ----> buka mbah google 
+atau bisa juga -----> ada banyak tutorial di youtube 
